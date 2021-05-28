@@ -4,4 +4,8 @@ public class Xyz
 	{
 		System.out.println("from xyz class");
 	}
+	public void AtoZ()
+	{
+		System.out.println("from xyz class");
+	}
 }
